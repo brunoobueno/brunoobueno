@@ -353,32 +353,38 @@ Plataforma de cálculo de custos industriais
 </tr>
 </table>
 
-### 📊 Distribuição de Linguagens
+## 📊 Distribuição de Linguagens
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobueno&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br&langs_count=8)
 
-### 🐍 Gráfico de Contribuições
+## 🐍 Gráfico de Contribuições
 
 ![Animação Snake](https://raw.githubusercontent.com/brunoobueno/brunoobueno/output/github-contribution-grid-snake-dark.svg)
 
-### 🏆 Troféus GitHub
+## 🏆 Troféus GitHub
 
 ![Troféus](https://github-profile-trophy.vercel.app/api/?username=brunoobueno&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
+</div>
+
+---
+
 <div align="center">
 
-### 💻 Atividade de Codificação Semanal
+## 💻 Atividade de Codificação Semanal
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 </div>
 
+---
+
 <div align="center">
 
 <!--START_LATEST_ACTIVITY-->
 
-### 🔥 Últimos Commits
+## 🔥 Últimos Commits
 
 📝 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a7767e8a164e6dff9d56fbf17c875500e6049716)** - correcao de captura `38d ago`
 
@@ -390,9 +396,11 @@ Plataforma de cálculo de custos industriais
 
 </div>
 
+---
+
 <div align="center">
 
-### ⚡ Atividade Recente
+## ⚡ Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
