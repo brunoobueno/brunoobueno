@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Read in English](https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge)](./README.md)
+[![Read in English](https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge)](./README.en.md)
 
 </div>
 
