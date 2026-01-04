@@ -17,17 +17,17 @@
     Active Projects
   </text>
   <text x="100" y="90" font-family="Arial" font-size="24" fill="#58A6FF" text-anchor="middle" font-weight="bold">
-    --
+    0
   </text>
   
   <text x="300" y="65" font-family="Arial" font-size="14" fill="#C9D1D9" text-anchor="middle">
     Commits (7d)
   </text>
   <text x="300" y="90" font-family="Arial" font-size="24" fill="#1F6FEB" text-anchor="middle" font-weight="bold">
-    --
+    0
   </text>
   
   <text x="200" y="110" font-family="Arial" font-size="10" fill="#8B949E" text-anchor="middle">
-    Awaiting first update...
+    Updated: 2026-01-04 03:54 UTC
   </text>
 </svg>
