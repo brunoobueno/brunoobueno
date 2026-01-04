@@ -1,0 +1,20 @@
+```
+brunoobueno/
+├── README.md                          # Perfil principal (EN)
+├── README.pt-BR.md                    # Versão em português
+├── DEPLOY.md                          # Instruções de deploy
+├── PROFILE_README.md                  # Sobre este repositório
+│
+├── .github/
+│   └── workflows/
+│       └── update-deployments.yml     # Automação de updates
+│
+├── scripts/
+│   └── update_deployments.py          # Script de atualização
+│
+├── templates/
+│   └── REPO_README_TEMPLATE.md        # Template para outros repos
+│
+└── assets/
+    └── (imagens, banners, etc)
+```
