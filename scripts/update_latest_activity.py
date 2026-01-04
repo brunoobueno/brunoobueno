@@ -205,8 +205,8 @@ def main():
     print("🔄 Updating latest commits and releases...")
     
     # Update both READMEs
-    update_readme_section('README.md', lang='en')
-    update_readme_section('README.pt-BR.md', lang='pt')
+    update_readme_section('README.md', lang='pt')
+    update_readme_section('README.en.md', lang='en')
     
     print("✨ Latest activity updated successfully!")
 

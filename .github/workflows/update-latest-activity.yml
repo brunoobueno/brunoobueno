@@ -36,7 +36,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md README.pt-BR.md
+          git add README.md README.en.md
           git diff --quiet && git diff --staged --quiet || git commit -m "🚀 Auto-update: Latest commits & activity [skip ci]"
           
       - name: Push changes

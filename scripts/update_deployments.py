@@ -157,11 +157,11 @@ def main():
     """Main execution"""
     print("🔄 Updating deployment status...")
     
-    # Update English README
-    update_readme('README.md', lang='en')
+    # Update Portuguese README (main)
+    update_readme('README.md', lang='pt')
     
-    # Update Portuguese README
-    update_readme('README.pt-BR.md', lang='pt')
+    # Update English README
+    update_readme('README.en.md', lang='en')
     
     print("✨ Deployment status updated successfully!")
 
