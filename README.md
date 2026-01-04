@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bueno-1711351a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoobueno/)
 [![Website](https://img.shields.io/badge/Website-brunobueno.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brunobueno.tech)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno@brunobueno.tech)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunobueno@croma.dev)
 
 <br>
 
@@ -365,25 +365,39 @@ Plataforma de cálculo de custos industriais
 
 ![Troféus](https://github-profile-trophy.vercel.app/api/?username=brunoobueno&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
+<div align="center">
+
 ### 💻 Atividade de Codificação Semanal
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+</div>
+
+<div align="center">
+
 <!--START_LATEST_ACTIVITY-->
+
 ### 🔥 Últimos Commits
 
-- 📝 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a7767e8a164e6dff9d56fbf17c875500e6049716)** - correcao de captura `38d ago`
-- 🎨 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/37f60813f9402ecd0cd8b894ecad7dc6cf539aba)** - feat: Enhanced MarketingAI with bilingual support, real mark `172d ago`
-- 🎨 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a09c22c2b9b85be07fef2a550d75b7ee48d145a3)** - feat: Add vCard contact export & cleanup documentation `172d ago`
+📝 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a7767e8a164e6dff9d56fbf17c875500e6049716)** - correcao de captura `38d ago`
 
+🎨 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/37f60813f9402ecd0cd8b894ecad7dc6cf539aba)** - feat: Enhanced MarketingAI with bilingual support, real mark `172d ago`
+
+🎨 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a09c22c2b9b85be07fef2a550d75b7ee48d145a3)** - feat: Add vCard contact export & cleanup documentation `172d ago`
 
 <!--END_LATEST_ACTIVITY-->
+
+</div>
+
+<div align="center">
 
 ### ⚡ Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</div>
 
 </div>
 
@@ -401,7 +415,7 @@ Plataforma de cálculo de custos industriais
 
 ### Contato
 
-🌐 [brunobueno.tech](https://brunobueno.tech) • 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bueno-1711351a0/) • 📸 [Instagram](https://www.instagram.com/brunoobueno/) • 📧 bruno@brunobueno.tech
+🌐 [brunobueno.tech](https://brunobueno.tech) • 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bueno-1711351a0/) • 📸 [Instagram](https://www.instagram.com/brunoobueno/) • 📧 brunobueno@croma.dev
 
 </div>
 
