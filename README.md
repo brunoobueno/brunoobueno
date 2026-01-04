@@ -393,17 +393,15 @@ Plataforma de cálculo de custos industriais
 
 <div align="center">
 
-**Aberto a colaborações em:**
-- Aplicações de IA industrial
-- Pesquisa em engenharia de confiabilidade
-- Contribuições open-source em ERP
-- Otimização de DevOps
+### Aberto a colaborações em:
 
-**Contato:**
-- 🌐 [brunobueno.tech](https://brunobueno.tech)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bueno-1711351a0/)
-- 📸 [Instagram](https://www.instagram.com/brunoobueno/)
-- 📧 bruno@brunobueno.tech
+**Aplicações de IA industrial** • **Pesquisa em engenharia de confiabilidade** • **Contribuições open-source em ERP** • **Otimização de DevOps**
+
+<br>
+
+### Contato
+
+🌐 [brunobueno.tech](https://brunobueno.tech) • 💼 [LinkedIn](https://www.linkedin.com/in/bruno-bueno-1711351a0/) • 📸 [Instagram](https://www.instagram.com/brunoobueno/) • 📧 bruno@brunobueno.tech
 
 </div>
 
