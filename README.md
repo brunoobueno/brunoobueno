@@ -416,4 +416,5 @@ Plataforma de cálculo de custos industriais
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=brunoobueno&color=58A6FF&style=for-the-badge&label=VISUALIZAÇÕES)
 
 </div>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer)
