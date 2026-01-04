@@ -412,6 +412,7 @@ No activity tracked
 ## ⚡ Atividade Recente
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Versão 1.1 - Suporte a PT-BR + Melhorias](https://github.com/brunoobueno/comprimir-imagens-prestashop-tiny-png-jpeg/releases/tag/v1.1-ptbr) in [brunoobueno/comprimir-imagens-prestashop-tiny-png-jpeg](https://github.com/brunoobueno/comprimir-imagens-prestashop-tiny-png-jpeg)
 <!--END_SECTION:activity-->
 
 </div>
