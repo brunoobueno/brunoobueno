@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Read in Portuguese](https://img.shields.io/badge/Ler_em-Portugu%C3%AAs-green?style=for-the-badge)](./README.md)
+[![Read in Portuguese](https://img.shields.io/badge/Ler_em-Português-green?style=for-the-badge)](./README.pt-BR.md)
 
 </div>
 
@@ -366,21 +366,31 @@ Industrial cost calculation platform
 ### 💻 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 December 2025 - To: 04 January 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_LATEST_ACTIVITY-->
 ### 🔥 Latest Commits
 
-*Updating...*
+- 📝 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a7767e8a164e6dff9d56fbf17c875500e6049716)** - correcao de captura `38d ago`
+- 🎨 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/37f60813f9402ecd0cd8b894ecad7dc6cf539aba)** - feat: Enhanced MarketingAI with bilingual support, real mark `172d ago`
+- 🎨 **[business-leads-ai-automation](https://github.com/brunoobueno/business-leads-ai-automation/commit/a09c22c2b9b85be07fef2a550d75b7ee48d145a3)** - feat: Add vCard contact export & cleanup documentation `172d ago`
 
-### 🚀 Latest Releases
 
-*Updating...*
 <!--END_LATEST_ACTIVITY-->
 
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Versão 1.1 - Suporte a PT-BR + Melhorias](https://github.com/brunoobueno/comprimir-imagens-prestashop-tiny-png-jpeg/releases/tag/v1.1-ptbr) in [brunoobueno/comprimir-imagens-prestashop-tiny-png-jpeg](https://github.com/brunoobueno/comprimir-imagens-prestashop-tiny-png-jpeg)
 <!--END_SECTION:activity-->
 
 </div>
